@@ -1,0 +1,19 @@
+
+  /*
+  selector{
+    propiedades>:valor}
+    */
+    body{
+      background:rgb(255, 133, 245)
+    }
+    #logotipo{
+      width:200px;
+      height:200px;
+      background:rgb(44, 31, 223)
+    }
+    .Encuentros{
+      width: 200px;
+      height: 200px;
+      margin: 10px;
+      background:rgb(255, 255, 255)
+    }
